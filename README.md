@@ -137,12 +137,14 @@ graph LR
 
 ---
 
-## 🎓 Education
+## 🎓 Education & Credentials
 
-*   **Bachelor of Science in Software Engineering**
-    *   **Institution:** Pakistan
+*   **Bachelor of Science in Software Engineering** (Class of 2025)
+    *   **Institution:** The University of Malakand (UOM), Chakdara Main Campus, Pakistan
     *   **Academic Performance:** CGPA **3.66 / 4.00**
-    *   **Professional Certification:** Certified Engineer, **Pakistan Engineering Council (PEC)**
+*   **Professional Registrations**
+    *   **Registered Engineer (RE)** — Pakistan Engineering Council (PEC)
+    *   **License Number:** COMP/027199 (Registered: Nov 07, 2025)
 
 ---
 
