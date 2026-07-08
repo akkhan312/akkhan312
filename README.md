@@ -104,6 +104,16 @@ graph TD
 
 ---
 
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="28" /> Professional Experience
+
+| Period | Role | Company | Highlights |
+| :--- | :--- | :--- | :--- |
+| **Mar 2024 – Present** | **Full Stack Software Engineer** | **Eradat AHQ Group (GST Riyadh)** | Production-grade MERN apps, secure REST APIs (JWT + RBAC), enterprise HR/inventory/reporting systems, AI-powered solutions with OpenAI, LangChain & RAG architecture. |
+| **Feb 2023 – Jan 2024** | **Full Stack Engineer** | **CodeCrush Technologies** | Full-stack apps with React, Next.js, Node.js & TypeScript. API integrations, payment gateways, cloud services, and CI/CD pipelines. |
+| **2022 – 2023** | **Junior Full Stack Engineer** | **ITSOLERA PVT LTD** | MERN stack development, REST APIs, production support, responsive UI, and backend integrations. |
+
+---
+
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28" /> GitHub Analytics
 
 <div align="center">
