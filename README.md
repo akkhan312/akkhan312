@@ -67,7 +67,7 @@ graph LR
         Vector[(Vector DB)]
     end
 
-    subgraph Cloud["☁️ Cloud & DevOps"]
+    subgraph Cloud["☁️ Cloud and DevOps"]
         AWS["AWS"]
         Docker["Docker"]
         CICD["CI/CD Pipelines"]
