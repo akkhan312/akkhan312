@@ -1,6 +1,6 @@
 # Engr. Ali Khan 👋
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=220&section=header&text=Engr.%20Ali%20Khan&fontSize=42&fontColor=ffffff&desc=Full-Stack%20%26%20Mobile%20Developer&descSize=18&descColor=00D2FF)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=220&section=header&text=Engr.%20Ali%20Khan&fontSize=42&fontColor=ffffff&desc=Full-Stack%20and%20Mobile%20Developer&descSize=18&descColor=00D2FF)
 
 <div align="center">
 
@@ -141,8 +141,8 @@ graph LR
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akkhan312&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&icon_color=00D2FF&title_color=00D2FF&text_color=c9d1d9)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akkhan312&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D2FF&text_color=c9d1d9)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=akkhan312&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&icon_color=00D2FF&title_color=00D2FF&text_color=c9d1d9)
+![Top Languages](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=akkhan312&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D2FF&text_color=c9d1d9)
 
 <br />
 
