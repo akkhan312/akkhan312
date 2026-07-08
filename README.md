@@ -6,6 +6,11 @@
   </a>
 </p>
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=akkhan312&label=Profile%20Views&color=2563EB&style=flat-square" alt="Profile Views" />
+</p>
+
+
 I build modern applications across web and mobile using technologies like **React.js**, **Next.js**, **React Native**, **TypeScript**, **Node.js**, **NestJS**, **Python**, **Databases (SQL/NoSQL/Vector)**, and integrated **RAG (Retrieval-Augmented Generation) systems**.
 
 I enjoy creating clean user interfaces, reliable backend systems, and complete products that are practical, scalable, and easy to use.
