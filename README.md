@@ -1,5 +1,10 @@
 # Hi, I'm Engr Ali Khan 👋
-### Full-Stack & Mobile Developer | AI & RAG Engineer
+
+<p align="left">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2563EB&width=435&lines=Full-Stack+%26+Mobile+Developer;AI+%26+RAG+Engineer;Problem+Solver" alt="Typing SVG" />
+  </a>
+</p>
 
 I build modern applications across web and mobile using technologies like **React.js**, **Next.js**, **React Native**, **TypeScript**, **Node.js**, **NestJS**, **Python**, **Databases (SQL/NoSQL/Vector)**, and integrated **RAG (Retrieval-Augmented Generation) systems**.
 
@@ -8,11 +13,12 @@ I enjoy creating clean user interfaces, reliable backend systems, and complete p
 ---
 
 ### 👨‍💻 About Me
-I'm a software developer from Pakistan, currently based in Riyadh, Saudi Arabia, who builds complete digital products for web and mobile platforms.
 
-- 🌐 My work mainly focuses on frontend development, backend APIs, database integration, responsive layouts, admin dashboards, and mobile apps.
-- 🤖 I specialize in building and integrating **RAG (Retrieval-Augmented Generation) systems** to power applications with intelligent search and AI-driven capabilities.
-- ⚡ I like building software that is not just functional, but also clean, fast, and easy for users to understand.
+I'm a software developer from Pakistan, currently based in **Riyadh, Saudi Arabia**, who builds complete digital products for web and mobile platforms.
+
+*   🌐 My work mainly focuses on frontend development, backend APIs, database integration, responsive layouts, admin dashboards, and mobile apps.
+*   🤖 I specialize in building and integrating **RAG (Retrieval-Augmented Generation) systems** to power applications with intelligent search and AI-driven capabilities.
+*   ⚡ I like building software that is not just functional, but also clean, fast, and easy for users to understand.
 
 ---
 
@@ -46,16 +52,24 @@ I'm a software developer from Pakistan, currently based in Riyadh, Saudi Arabia,
 
 ### ⚡ Skills & Services
 
-*   Full-stack web application development
-*   Mobile app development with React Native
-*   Retrieval-Augmented Generation (RAG) system implementation & LLM integration
-*   MERN / MEAN / NestJS stack development
-*   Modern SPA development (React.js, Next.js)
-*   Microservices and REST API / GraphQL development
-*   Database design & integration (SQL, NoSQL, Vector DBs)
-*   Secure authentication & role-based access systems (JWT, OAuth, RBAC)
-*   Cloud deployment, Docker containerization, and CI/CD pipelines
-*   Performance optimization, system design & scalable architectures
+*   🚀 **Full-Stack Web Apps**: End-to-end development of custom web portals, CMS, and admin dashboards.
+*   📱 **Cross-Platform Mobile Apps**: High-performance mobile solutions built with React Native.
+*   🤖 **AI & RAG Systems**: Integrating semantic search, custom knowledge retrieval pipelines, and vector DBs.
+*   ⚡ **API Architectures**: Designing fast, secure RESTful and GraphQL APIs with OAuth & RBAC.
+*   🐳 **DevOps & Infrastructure**: Automated deployments using CI/CD pipelines, Docker, and AWS services.
+
+---
+
+### 📊 GitHub Analytics
+
+<p align="left">
+  <a href="https://github.com/akkhan312">
+    <img src="https://github-readme-stats.vercel.app/api?username=akkhan312&show_icons=true&theme=tokyonight&hides_format=true" alt="GitHub Stats" height="180px" />
+  </a>
+  <a href="https://github.com/akkhan312">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akkhan312&layout=compact&theme=tokyonight" alt="Top Languages" height="180px" />
+  </a>
+</p>
 
 ---
 
@@ -80,20 +94,18 @@ const aliKhan = {
 
 ---
 
-### 📌 Currently Improving
-
-*   Advanced React Native development
-*   AI agent workflows, prompt engineering, and advanced RAG architectures
-*   Production-ready backend APIs & microservices
-*   DevOps basics and Docker-based deployment
-*   Clean UI/UX implementation
-
----
-
 ### 🤝 Connect with Me
 
 Let's collaborate or build something amazing together!
 
-*   💼 **LinkedIn**: [linkedin.com/in/engr-ali-khan-626667251/](https://www.linkedin.com/in/engr-ali-khan-626667251/)
-*   📧 **Email**: [alikhanse248@gmail.com](mailto:alikhanse248@gmail.com)
-*   🌐 **Portfolio**: [alikhan-portfolio-app.netlify.app/](https://alikhan-portfolio-app.netlify.app/)
+<p align="left">
+  <a href="https://www.linkedin.com/in/engr-ali-khan-626667251/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:alikhanse248@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://alikhan-portfolio-app.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%2300C7B7.svg?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
