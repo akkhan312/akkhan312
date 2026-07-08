@@ -1,26 +1,16 @@
+# Engr. Ali Khan 👋
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=220&section=header&text=Engr.%20Ali%20Khan&fontSize=42&fontColor=ffffff&desc=Full-Stack%20%26%20Mobile%20Developer&descSize=18&descColor=00D2FF)
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,50:1a1b27,100:00D2FF&amp;height=220&amp;section=header&amp;text=Engr.%20Ali%20Khan&amp;fontSize=42&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Full-Stack%20%26%20Mobile%20Developer%20%7C%20AI%20%26%20RAG%20Engineer&amp;descSize=18&amp;descAlignY=55&amp;descColor=00D2FF" width="100%" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=500&height=45&lines=Full-Stack+Software+Engineer;Scalable+Web+%26+Mobile+Architect;MERN+%7C+Next.js+%7C+NestJS+%7C+AI;Building+Production-Grade+Systems)](https://git.io/typing-svg)
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=3000&amp;pause=1000&amp;color=00D2FF&amp;center=true&amp;vCenter=true&amp;width=500&amp;height=45&amp;lines=Full-Stack+Software+Engineer;Scalable+Web+%26+Mobile+Architect;MERN+%7C+Next.js+%7C+NestJS+%7C+AI;Building+Production-Grade+Systems" alt="Typing SVG" />
-</a>
+![Profile Views](https://komarev.com/ghpvc/?username=akkhan312&label=Profile+Views&color=00D2FF&style=for-the-badge)
 
-<br />
-
-<img src="https://komarev.com/ghpvc/?username=akkhan312&amp;label=Profile%20Views&amp;color=00D2FF&amp;style=for-the-badge" alt="Profile Views" />
-
-<br /><br />
-
-<a href="https://www.linkedin.com/in/engr-ali-khan-626667251/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:alikhanse248@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" />
-</a>
-<a href="https://alikhan-portfolio-app.netlify.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-%2300C7B7.svg?style=for-the-badge&amp;logo=netlify&amp;logoColor=white" alt="Portfolio" />
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/engr-ali-khan-626667251/)
+[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alikhanse248@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%2300C7B7.svg?style=for-the-badge&logo=netlify&logoColor=white)](https://alikhan-portfolio-app.netlify.app/)
 
 </div>
 
@@ -30,11 +20,9 @@
 
 I'm a software engineer from Pakistan, currently based in **Riyadh, Saudi Arabia**. I design and develop high-performance web, mobile, and AI-native applications.
 
-🌐 **Full-Stack Mastery** — I've built everything from microservices to sleek SPAs and cross-platform mobile apps.
-
-🏗️ **System Architecture** — Designing scalable, maintainable systems with clean separation of concerns across frontend, backend, databases, and cloud.
-
-⚡ **Performance Obsessed** — Deeply passionate about query optimization, caching strategies, and delivering sub-second response times at scale.
+*   🌐 **Full-Stack Mastery** — I've built everything from microservices to sleek SPAs and cross-platform mobile apps.
+*   🏗️ **System Architecture** — Designing scalable, maintainable systems with clean separation of concerns across frontend, backend, databases, and cloud.
+*   ⚡ **Performance Obsessed** — Deeply passionate about query optimization, caching strategies, and delivering sub-second response times at scale.
 
 ---
 
@@ -108,13 +96,11 @@ graph LR
 ## 🛠️ Specialized Tech Stack
 
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,nestjs,express,py,php&amp;theme=dark" alt="Frontend and Backend" />
-  </a>
-  <br />
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase,git,github,githubactions,docker,aws,vercel&amp;theme=dark" alt="DB DevOps and Cloud" />
-  </a>
+
+![Frontend and Backend](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,nestjs,express,py,php&theme=dark)
+
+![DB DevOps and Cloud](https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase,git,github,githubactions,docker,aws,vercel&theme=dark)
+
 </div>
 
 <br />
@@ -133,15 +119,11 @@ graph LR
 
 ## 🚀 What I Build
 
-🌐 **Web Apps** — Modern websites, dashboards, admin panels, LMS platforms, business portals, and full-stack web applications.
-
-📱 **Mobile Apps** — Cross-platform mobile applications using React Native with clean UI, APIs, authentication, and real-world features.
-
-🤖 **AI-Powered Features** — Semantic search, document Q&A, and intelligent retrieval systems using RAG architecture.
-
-⚙️ **API Architectures** — Designing fast, secure RESTful and GraphQL APIs with OAuth and RBAC.
-
-🐳 **DevOps and Infrastructure** — Automated deployments using CI/CD pipelines, Docker, and AWS services.
+*   🌐 **Web Apps** — Modern websites, dashboards, admin panels, LMS platforms, business portals, and full-stack web applications.
+*   📱 **Mobile Apps** — Cross-platform mobile applications using React Native with clean UI, APIs, authentication, and real-world features.
+*   🤖 **AI-Powered Features** — Semantic search, document Q&A, and intelligent retrieval systems using RAG architecture.
+*   ⚙️ **API Architectures** — Designing fast, secure RESTful and GraphQL APIs with OAuth and RBAC.
+*   🐳 **DevOps and Infrastructure** — Automated deployments using CI/CD pipelines, Docker, and AWS services.
 
 ---
 
@@ -159,16 +141,16 @@ graph LR
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=akkhan312&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;icon_color=00D2FF&amp;title_color=00D2FF&amp;text_color=c9d1d9" alt="GitHub Stats" height="180px" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akkhan312&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0d1117&amp;title_color=00D2FF&amp;text_color=c9d1d9" alt="Top Languages" height="180px" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akkhan312&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&icon_color=00D2FF&title_color=00D2FF&text_color=c9d1d9)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akkhan312&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D2FF&text_color=c9d1d9)
 
 <br />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=akkhan312&amp;theme=tokyonight&amp;hide_border=true&amp;background=0d1117&amp;ring=00D2FF&amp;fire=00D2FF&amp;currStreakLabel=00D2FF" alt="GitHub Streak" width="700px" />
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akkhan312&theme=tokyonight&hide_border=true&background=0d1117&ring=00D2FF&fire=00D2FF&currStreakLabel=00D2FF)
 
 <br /><br />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=akkhan312&amp;theme=tokyo-night&amp;bg_color=0d1117&amp;color=00D2FF&amp;line=00D2FF&amp;point=ffffff&amp;hide_border=true" alt="Contribution Graph" width="100%" />
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=akkhan312&theme=tokyo-night&bg_color=0d1117&color=00D2FF&line=00D2FF&point=ffffff&hide_border=true)
 
 </div>
 
@@ -177,7 +159,9 @@ graph LR
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=akkhan312&amp;theme=tokyonight&amp;column=7&amp;margin-w=15&amp;margin-h=15&amp;no-frame=true&amp;no-bg=true" alt="GitHub Trophies" />
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=akkhan312&theme=tokyonight&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true)
+
 </div>
 
 ---
@@ -203,8 +187,4 @@ const aliKhan = {
 
 ---
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0d1117,50:1a1b27,100:00D2FF&amp;height=120&amp;section=footer" width="100%" />
-
-</div>
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=footer)
