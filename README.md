@@ -151,9 +151,17 @@ graph LR
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=akkhan312&theme=tokyo-night&bg_color=0d1117&color=00D2FF&line=00D2FF&point=ffffff&hide_border=true)
 
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+![GitHub Trophies](https://github-profile-trophy-tawny.vercel.app/?username=akkhan312&theme=tokyonight&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true)
+
 </div>
 
-
+---
 
 ## 🧠 Developer Snapshot
 
