@@ -22,6 +22,7 @@ I'm a software engineer from Pakistan, currently based in **Riyadh, Saudi Arabia
 *   🌐 **Full-Stack Mastery** — I've built everything from microservices to sleek SPAs and cross-platform mobile apps.
 *   🏗️ **System Architecture** — Designing scalable, maintainable systems with clean separation of concerns across frontend, backend, databases, and cloud.
 *   ⚡ **Performance Obsessed** — Deeply passionate about query optimization, caching strategies, and delivering sub-second response times at scale.
+*   🛡️ **PEC Registered** — Certified Professional Engineer registered with the **Pakistan Engineering Council (PEC)**.
 
 ---
 
@@ -141,6 +142,7 @@ graph LR
 *   **Bachelor of Science in Software Engineering**
     *   **Institution:** Pakistan
     *   **Academic Performance:** CGPA **3.66 / 4.00**
+    *   **Professional Certification:** Certified Engineer, **Pakistan Engineering Council (PEC)**
 
 ---
 
