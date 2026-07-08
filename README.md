@@ -8,7 +8,7 @@ I enjoy creating clean user interfaces, reliable backend systems, and complete p
 ---
 
 ### 👨‍💻 About Me
-I'm a software developer from Pakistan who builds complete digital products for web and mobile platforms.
+I'm a software developer from Pakistan, currently based in Riyadh, Saudi Arabia, who builds complete digital products for web and mobile platforms.
 
 - 🌐 My work mainly focuses on frontend development, backend APIs, database integration, responsive layouts, admin dashboards, and mobile apps.
 - 🤖 I specialize in building and integrating **RAG (Retrieval-Augmented Generation) systems** to power applications with intelligent search and AI-driven capabilities.
@@ -64,7 +64,7 @@ I'm a software developer from Pakistan who builds complete digital products for 
 ```javascript
 const aliKhan = {
   role: "Full-Stack & Mobile Developer | AI & RAG Engineer",
-  location: "Pakistan",
+  location: "Riyadh, Saudi Arabia",
 
   frontend: ["React.js", "Next.js", "React Native", "TypeScript", "JavaScript", "HTML5", "CSS3", "Tailwind CSS"],
   backend: ["Node.js", "Express.js", "NestJS", "Python", "PHP"],
