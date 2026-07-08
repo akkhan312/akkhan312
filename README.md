@@ -1,7 +1,7 @@
 # Hi, I'm Engr Ali Khan 👋
-### Web & Mobile Application Developer | AI & RAG Developer
+### Full-Stack & Mobile Developer | AI & RAG Engineer
 
-I build modern applications across web and mobile using technologies like **React.js**, **React Native**, **Node.js**, **Express.js**, **MongoDB**, **PostgreSQL**, **Firebase**, **Vue.js**, and integrated **RAG (Retrieval-Augmented Generation) systems**.
+I build modern applications across web and mobile using technologies like **React.js**, **Next.js**, **React Native**, **TypeScript**, **Node.js**, **NestJS**, **Python**, **Databases (SQL/NoSQL/Vector)**, and integrated **RAG (Retrieval-Augmented Generation) systems**.
 
 I enjoy creating clean user interfaces, reliable backend systems, and complete products that are practical, scalable, and easy to use.
 
@@ -28,38 +28,34 @@ I'm a software developer from Pakistan who builds complete digital products for 
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,tailwind,bootstrap,nodejs,express,graphql,mongodb,postgres,mysql,firebase,git,github,docker,postman,aws,netlify,vercel&theme=dark" alt="My Tech Stack" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,nestjs,express,py,php,mongodb,postgres,mysql,git,github,githubactions,docker,aws,vercel&theme=dark" alt="My Tech Stack" />
   </a>
 </p>
 
 | Category | Technologies |
 | :--- | :--- |
-| **Frontend** | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white) |
-| **Mobile** | ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) |
-| **Backend & APIs** | ![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white) |
-| **AI & RAG** | ![LangChain](https://img.shields.io/badge/LangChain-1C3C3A?style=flat&logo=chainlink&logoColor=white) ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white) ![Vector DBs](https://img.shields.io/badge/Vector_DBs-0D9488?style=flat) |
-| **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase&logoColor=ffCA28) |
-| **State Management** | ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat&logo=redux&logoColor=white) ![Zustand](https://img.shields.io/badge/Zustand-orange?style=flat) |
-| **Tools & DevOps** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white) |
-| **Deployment** | ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=flat&logo=render&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/next.js-black?style=flat&logo=nextdotjs&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) |
+| **Backend** | ![NodeJS](https://img.shields.io/badge/node.js-%2343853D.svg?style=flat&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) |
+| **Databases** | ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![Vector Databases](https://img.shields.io/badge/Vector_Databases-0D9488?style=flat) |
+| **AI & RAG** | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3A?style=flat&logo=chainlink&logoColor=white) ![RAG](https://img.shields.io/badge/RAG-0052CC?style=flat) ![Semantic Search](https://img.shields.io/badge/Semantic_Search-3B82F6?style=flat) ![Vector Embeddings](https://img.shields.io/badge/Vector_Embeddings-6366F1?style=flat) ![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-EC4899?style=flat) |
+| **APIs & Auth** | ![REST APIs](https://img.shields.io/badge/REST_APIs-0052CC?style=flat) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=json-web-tokens&logoColor=F80090) ![RBAC](https://img.shields.io/badge/RBAC-4B5563?style=flat) ![OAuth](https://img.shields.io/badge/OAuth-2563EB?style=flat) ![API Integration](https://img.shields.io/badge/API_Integration-10B981?style=flat) |
+| **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI%2FCD-FF9900?style=flat) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) |
+| **Architecture** | ![System Design](https://img.shields.io/badge/System_Design-D97706?style=flat) ![Scalable Architecture](https://img.shields.io/badge/Scalable_Architecture-7C3AED?style=flat) ![Performance Optimization](https://img.shields.io/badge/Performance_Optimization-EF4444?style=flat) |
 
 ---
 
 ### ⚡ Skills & Services
 
-*   Web & mobile application development
+*   Full-stack web application development
 *   Mobile app development with React Native
 *   Retrieval-Augmented Generation (RAG) system implementation & LLM integration
-*   MERN / MEVN stack development
-*   React.js and Vue.js frontend development
-*   Node.js and Express.js backend APIs
-*   MongoDB, PostgreSQL, MySQL, and Firebase integration
-*   Authentication and role-based access systems
-*   Admin dashboards and CMS panels
-*   LMS and business platform development
-*   REST API development and integration
-*   Responsive UI with Tailwind CSS and Bootstrap
-*   Deployment on Vercel, Netlify, Render, Firebase, and AWS
+*   MERN / MEAN / NestJS stack development
+*   Modern SPA development (React.js, Next.js)
+*   Microservices and REST API / GraphQL development
+*   Database design & integration (SQL, NoSQL, Vector DBs)
+*   Secure authentication & role-based access systems (JWT, OAuth, RBAC)
+*   Cloud deployment, Docker containerization, and CI/CD pipelines
+*   Performance optimization, system design & scalable architectures
 
 ---
 
@@ -67,21 +63,18 @@ I'm a software developer from Pakistan who builds complete digital products for 
 
 ```javascript
 const aliKhan = {
-  role: "Web, Mobile & AI/RAG Application Developer",
+  role: "Full-Stack & Mobile Developer | AI & RAG Engineer",
   location: "Pakistan",
 
-  web: ["React.js", "Vue.js", "Tailwind CSS", "Bootstrap"],
-  mobile: ["React Native"],
-  aiAndRag: ["LangChain", "LlamaIndex", "OpenAI APIs", "Vector DBs"],
+  frontend: ["React.js", "Next.js", "React Native", "TypeScript", "JavaScript", "HTML5", "CSS3", "Tailwind CSS"],
+  backend: ["Node.js", "Express.js", "NestJS", "Python", "PHP"],
+  databases: ["MongoDB", "PostgreSQL", "MySQL", "Vector Databases"],
+  aiAndRag: ["OpenAI APIs", "LangChain", "RAG", "Semantic Search", "Vector Embeddings", "Prompt Engineering"],
+  apisAndAuth: ["REST APIs", "JWT", "RBAC", "OAuth", "API Integration"],
+  cloudDevOps: ["AWS", "Docker", "CI/CD", "Git", "GitHub Actions", "Vercel"],
+  architecture: ["System Design", "Scalable Architecture", "Performance Optimization"],
 
-  backend: ["Node.js", "Express.js", "REST APIs", "GraphQL"],
-  databases: ["MongoDB", "PostgreSQL", "MySQL", "Firebase"],
-
-  stateManagement: ["Redux", "Zustand", "Context API"],
-  deployment: ["Vercel", "Netlify", "Render", "Firebase", "AWS"],
-  tools: ["Git", "GitHub", "Docker", "Postman"],
-
-  focus: "Building clean, practical, AI-integrated, and user-friendly applications"
+  focus: "Building clean, scalable, AI-integrated, and high-performance applications"
 };
 ```
 
