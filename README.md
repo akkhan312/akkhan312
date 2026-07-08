@@ -5,7 +5,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=500&height=45&lines=Full-Stack+Software+Engineer;Scalable+Web+%26+Mobile+Architect;MERN+%7C+Next.js+%7C+NestJS+%7C+AI;Building+Production-Grade+Systems)](https://git.io/typing-svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=akkhan312&label=Profile+Views&color=00D2FF&style=for-the-badge)
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/engr-ali-khan-626667251/)
 [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alikhanse248@gmail.com)
