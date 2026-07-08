@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:00D2FF&height=220&section=header&text=Engr.%20Ali%20Khan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20%26%20Mobile%20Developer%20%7C%20AI%20%26%20RAG%20Engineer&descSize=18&descAlignY=55&descColor=00D2FF" width="100%" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=500&height=45&lines=Building+Intelligent+Applications;RAG+%26+AI+Systems+Engineer;Scalable+Full-Stack+Architect;React+%7C+Node+%7C+Python+%7C+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D2FF&center=true&vCenter=true&width=500&height=45&lines=Full-Stack+Software+Engineer;Scalable+Web+%26+Mobile+Architect;MERN+%7C+Next.js+%7C+NestJS+%7C+AI;Building+Production-Grade+Systems" alt="Typing SVG" />
 </a>
 
 <br />
@@ -26,45 +26,86 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" width="28" /> About Me
+## 🧑‍💻 About Me
 
 I'm a software engineer from Pakistan, currently based in **Riyadh, Saudi Arabia**. I design and develop high-performance web, mobile, and AI-native applications.
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20with%20Meridians.png" width="18" /> **Full-Stack Mastery** — I've built everything from microservices to sleek SPAs and cross-platform mobile apps.
+🌐 **Full-Stack Mastery** — I've built everything from microservices to sleek SPAs and cross-platform mobile apps.
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="18" /> **AI Specialization** — Focused on production-grade **RAG systems**, semantic search, and automated AI pipelines.
+🏗️ **System Architecture** — Designing scalable, maintainable systems with clean separation of concerns across frontend, backend, databases, and cloud.
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/High%20Voltage.png" width="18" /> **Clean Architecture** — Deeply passionate about system design, performance optimization, and scalable databases.
+⚡ **Performance Obsessed** — Deeply passionate about query optimization, caching strategies, and delivering sub-second response times at scale.
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="28" /> Deep Dive: AI & RAG Engineering
+## 🏛️ Full-Stack Architecture Overview
 
-I specialize in bridging the gap between large language models (LLMs) and custom enterprise datasets.
+How I architect modern, production-grade applications end-to-end:
 
 ```mermaid
-graph TD
-    User([fa:fa-user User Query]) --> Embedding[fa:fa-microchip Vector Embedding Model]
-    Embedding --> VectorDB[(fa:fa-database Vector DB)]
-    VectorDB --> Retrieval[fa:fa-search Semantic Retrieval]
-    Retrieval --> Context[fa:fa-layer-group Context Aggregation]
-    Context --> LLM[fa:fa-brain OpenAI / Custom LLM]
-    LLM --> Response([fa:fa-comment-dots Contextual Response])
+graph LR
+    subgraph Client["🖥️ Client Layer"]
+        React["React.js / Next.js"]
+        Mobile["React Native"]
+    end
 
-    classDef default fill:#1e293b,stroke:#00D2FF,stroke-width:2px,color:#fff;
-    classDef highlight fill:#0f172a,stroke:#3b82f6,stroke-width:3px,color:#00D2FF;
-    class User,Response highlight;
+    subgraph API["⚙️ API Gateway"]
+        REST["REST APIs"]
+        Auth["JWT + OAuth + RBAC"]
+    end
+
+    subgraph Server["🔧 Server Layer"]
+        Node["Node.js / Express"]
+        Nest["NestJS"]
+        Python["Python Services"]
+    end
+
+    subgraph Data["🗄️ Data Layer"]
+        Mongo[(MongoDB)]
+        PG[(PostgreSQL)]
+        MySQL2[(MySQL)]
+        Vector[(Vector DB)]
+    end
+
+    subgraph Cloud["☁️ Cloud & DevOps"]
+        AWS["AWS"]
+        Docker["Docker"]
+        CICD["CI/CD Pipelines"]
+        Vercel2["Vercel"]
+    end
+
+    React --> REST
+    Mobile --> REST
+    REST --> Auth
+    Auth --> Node
+    Auth --> Nest
+    Auth --> Python
+    Node --> Mongo
+    Node --> PG
+    Nest --> PG
+    Nest --> MySQL2
+    Python --> Vector
+    Node --> AWS
+    Nest --> Docker
+    Docker --> CICD
+    CICD --> Vercel2
+
+    classDef clientStyle fill:#1e293b,stroke:#00D2FF,stroke-width:2px,color:#fff
+    classDef apiStyle fill:#0f172a,stroke:#3b82f6,stroke-width:2px,color:#fff
+    classDef serverStyle fill:#1e293b,stroke:#10b981,stroke-width:2px,color:#fff
+    classDef dataStyle fill:#0f172a,stroke:#f59e0b,stroke-width:2px,color:#fff
+    classDef cloudStyle fill:#1e293b,stroke:#8b5cf6,stroke-width:2px,color:#fff
+
+    class React,Mobile clientStyle
+    class REST,Auth apiStyle
+    class Node,Nest,Python serverStyle
+    class Mongo,PG,MySQL2,Vector dataStyle
+    class AWS,Docker,CICD,Vercel2 cloudStyle
 ```
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Magnifying%20Glass%20Tilted%20Left.png" width="18" /> **Vector Search & Indexing** — Building semantic retrieval systems using high-density vector embeddings.
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="18" /> **Prompt Engineering & Orchestration** — Advanced reasoning workflows using LangChain, LlamaIndex, and custom agents.
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Card%20File%20Box.png" width="18" /> **Data Ingestion Pipelines** — Automated document parsing, chunking, and metadata indexing pipelines.
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="28" /> Specialized Tech Stack
+## 🛠️ Specialized Tech Stack
 
 <div align="center">
   <a href="https://skillicons.dev">
@@ -90,21 +131,21 @@ graph TD
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="28" /> What I Build
+## 🚀 What I Build
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20with%20Meridians.png" width="18" /> **Web Apps** — Modern websites, dashboards, admin panels, LMS platforms, business portals, and full-stack web applications.
+🌐 **Web Apps** — Modern websites, dashboards, admin panels, LMS platforms, business portals, and full-stack web applications.
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" width="18" /> **Mobile Apps** — Cross-platform mobile applications using React Native with clean UI, APIs, authentication, and real-world features.
+📱 **Mobile Apps** — Cross-platform mobile applications using React Native with clean UI, APIs, authentication, and real-world features.
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" width="18" /> **RAG & AI Systems** — Intelligent search systems, document QA agents, and LLM-powered backends using Retrieval-Augmented Generation.
+🤖 **AI-Powered Features** — Semantic search, document Q&A, and intelligent retrieval systems using RAG architecture.
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="18" /> **API Architectures** — Designing fast, secure RESTful and GraphQL APIs with OAuth & RBAC.
+⚙️ **API Architectures** — Designing fast, secure RESTful and GraphQL APIs with OAuth & RBAC.
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Package.png" width="18" /> **DevOps & Infrastructure** — Automated deployments using CI/CD pipelines, Docker, and AWS services.
+🐳 **DevOps & Infrastructure** — Automated deployments using CI/CD pipelines, Docker, and AWS services.
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" width="28" /> Professional Experience
+## 💼 Professional Experience
 
 | Period | Role | Company | Highlights |
 | :--- | :--- | :--- | :--- |
@@ -114,7 +155,7 @@ graph TD
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="28" /> GitHub Analytics
+## 📊 GitHub Analytics
 
 <div align="center">
 
@@ -133,7 +174,7 @@ graph TD
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="28" /> GitHub Trophies
+## 🏆 GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=akkhan312&theme=tokyonight&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true" alt="GitHub Trophies" />
@@ -141,7 +182,7 @@ graph TD
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" width="28" /> Developer Snapshot
+## 🧠 Developer Snapshot
 
 ```javascript
 const aliKhan = {
