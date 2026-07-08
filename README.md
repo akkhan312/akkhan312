@@ -153,17 +153,7 @@ graph LR
 
 </div>
 
----
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=akkhan312&theme=tokyonight&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true)
-
-</div>
-
----
 
 ## 🧠 Developer Snapshot
 
