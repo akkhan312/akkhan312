@@ -136,6 +136,14 @@ graph LR
 
 ---
 
+## 🎓 Education
+
+*   **Bachelor of Science in Software Engineering**
+    *   **Institution:** Pakistan
+    *   **Academic Performance:** CGPA **3.66 / 4.00**
+
+---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
