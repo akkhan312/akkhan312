@@ -1,6 +1,5 @@
-# Engr. Ali Khan 👋
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=220&section=header&text=Engr.%20Ali%20Khan&fontSize=42&fontColor=ffffff)
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=220&section=header&text=Engr.%20Ali%20Khan&fontSize=42&fontColor=ffffff&desc=Full-Stack%20and%20Mobile%20Developer&descSize=18&descColor=00D2FF)
 
 <div align="center">
 
